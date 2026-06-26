@@ -164,37 +164,36 @@ python main.py
 
 ## Dashboard
 
-(Add Screenshot)
+<img width="1062" height="712" alt="Image" src="https://github.com/user-attachments/assets/42d95a30-5a23-45d2-bba1-6d3261bb6465" />
 
 ---
 
 ## Student Enrollment
 
-(Add Screenshot)
+<img width="882" height="592" alt="Image" src="https://github.com/user-attachments/assets/68714ca9-ac0f-4be1-8619-2da172660b1b" />
 
 ---
 
 ## Group Attendance
 
-(Add Screenshot)
-
----
-
-## Course Attendance
-
-(Add Screenshot)
+<img width="1282" height="812" alt="Image" src="https://github.com/user-attachments/assets/b618f148-0693-4f9c-94ab-55ad965562e6" />
 
 ---
 
 ## Reports
 
-(Add Screenshot)
-
+<img width="1062" height="712" alt="Image" src="https://github.com/user-attachments/assets/b93e742a-0ee4-498d-86ac-3c46b7550c04" />
 ---
 
 ## Student Management
 
-(Add Screenshot)
+<img width="882" height="652" alt="Image" src="https://github.com/user-attachments/assets/a54e56ba-0c9e-4a82-be38-cb6f5485e61b" />
+
+---
+
+## Dark Theme
+
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/232ce030-3c01-4d96-b7c7-ba7d1615efb7" />
 
 ---
 
